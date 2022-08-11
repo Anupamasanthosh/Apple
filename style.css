@@ -1,0 +1,66 @@
+.nav-text {
+    font-size: 12px;
+    color: rgb(199, 199, 213);
+}
+
+.navbar-custom {
+    height: 50px;
+}
+
+.p-fontsize {
+    font-size: 14px;
+}
+
+.p-blue {
+    color: rgb(0, 0102, 204);
+}
+
+
+.section-1-content {
+    margin-left: 14em;
+}
+
+.section-1-content-heading-pink {
+    color: rgb(202, 33, 102);
+}
+
+.section-1-content-h3 {
+    font-weight: 300;
+    margin-bottom: 0;
+
+}
+
+.section-1-img-container {
+   object-fit: cover;
+}
+
+.section-1 {
+    background-color: rgb(245, 245, 247);
+}
+
+.section-3 {
+    background-color: rgb(251, 251, 253);
+}
+
+.section-4-a {
+    background-color: rgb(251, 251, 253);
+}
+
+.section-4-b {
+    background-color: rgb(0, 0, 0);
+}
+
+.section-5-b {
+    background-color: rgb(0, 0, 0);
+}
+ul>p,li{
+    margin-top: 20px;
+}
+.vr{
+    border-left: 2px solid #2f2f31;
+    height: 16px;
+    
+}
+.menu,.ul>li{
+    padding-left: 5px;
+}
