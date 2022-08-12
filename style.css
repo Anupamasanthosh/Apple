@@ -1,3 +1,19 @@
+
+body{
+
+    overflow-x: hidden;
+
+}
+row
+{
+    width: 100%;
+}
+.main{
+    width: 100% !important;
+}
+.section-1{
+    width: 100%;
+}
 .nav-text {
     font-size: 12px;
     color: rgb(199, 199, 213);
